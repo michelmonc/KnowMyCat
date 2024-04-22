@@ -1,0 +1,11 @@
+Our project allows the user to upload a photo through a website we have created that is then transported to our code. 
+After collecting the photo of the user's cat, Our code helps identify what breed of cat the user owns or would like to adopt.
+
+What has inspired us is the passion that we have to assist heroes who devote their lives to rescuing cats.
+It is unfortunate to say that some people bring harm to their four-legged companions by not being able to provide the correct food and resources for their specific type of breed. Our project, 
+will allow anyone to, at no cost,  identify their pet and allow for families to rescue more dogs by allowing them to know the breed of their potential pet. 
+
+
+We are using Python in Jupiter Notebook to create an AI that we will train using a dataset of different 
+cat breeds that will train our CNN to recognize the different breeds and provide a graph of the different breeds present in the cat.
+To input the dataset into the CNN we will be using Google Drive and to allow users to input the images to test our product we will be using a web 
